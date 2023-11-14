@@ -56,20 +56,16 @@ features                                  :
     description                           : Complete all levels of a category to earn an achievement!
     fontawesome_icon_name                 : star
 
-  - title                                 : Archive tasks
-    description                           : Having tons of tasks can difficult starting a session. Archive the completed tasks to hide them. You won't lose any information
-    fontawesome_icon_name                 : archive
-
   - title                                 : Infinite mode
     description                           : Randomly generated puzzles for you to play infinitely
     fontawesome_icon_name                 : infinity
 
   - title                                 : iCloud synchronization
-    description                           : Automatic synchronization of the data between all your Apple devices (iPhone, iPad, Mac and Apple Watch) thanks to iCloud. Your current levels progress will be synced between devices.
+    description                           : Automatic synchronization of the data between all your Apple devices (iPhone, iPad and Mac) thanks to iCloud. Your current levels progress will be synced between devices.
     fontawesome_icon_name                 : cloud
 
   - title                                 : Offline play
-    description                           : Stay updated of the current task session elapsed time with Live Activities on your notifications center (or dynamic island) on your iPhone.
+    description                           : Play anytime, even when you don't have an internet connection.
     fontawesome_icon_name                 : plane
 
   - title                                 : No Ads
